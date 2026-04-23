@@ -1,2 +1,2 @@
-pint "boa tarde"
+print("boa tarde")
 
